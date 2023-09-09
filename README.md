@@ -12,5 +12,5 @@ I have implemented cross browser compatibility for the following browsers:
 * Safari
 * Samsung Internet
 
-Also I made simply animation for links and buttons withous frameworks too
+Also I made simply animation for links and buttons withous frameworks too  
 And <a href = 'https://radio-w-wave.netlify.app/'> ___how it looks like___ </a>
